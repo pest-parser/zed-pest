@@ -13,7 +13,7 @@ This extension provides language support for the [Pest](https://pest.rs).
 
 ## Screenshot
 
-<img width="880" alt="image" src="https://github.com/pest-parser/zed-pest/assets/5518/cb4367bd-80bf-4b12-8650-064e65073bab">
+<img width="880" alt="image" src="https://github.com/pest-parser/zed-pest/assets/5518/d7938d4c-f931-4d1b-80dd-14fa660fe1f9">
 
 ## License
 

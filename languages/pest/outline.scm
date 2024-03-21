@@ -1,2 +1,2 @@
 (grammar_rule
-    name: (_) @identifier) @identifier
+    name: (_) @name) @item

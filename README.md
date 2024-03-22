@@ -2,6 +2,10 @@
 
 This extension provides language support for the [Pest](https://pest.rs).
 
+## Installation
+
+Open Zed extensions page, and search `Pest` to install.
+
 ## Features
 
 - Syntax highlighting.

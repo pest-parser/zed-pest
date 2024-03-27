@@ -10,6 +10,7 @@ Open Zed extensions page, and search `Pest` to install.
 
 - Syntax highlighting.
 - Outline view.
+- LSP support.
 
 ## Languages
 

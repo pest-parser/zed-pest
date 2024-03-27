@@ -1,3 +1,4 @@
 /target
 *.wasm
 .DS_Store
+grammars/pest/

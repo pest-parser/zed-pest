@@ -1,7 +1,0 @@
-{
-  "name": "Pest",
-  "version": "0.0.1",
-  "authors": ["Jason Lee <huacnlee@gmail.com>"],
-  "description": "Pest parser language support for Zed",
-  "repository": "https://github.com/pest-parser/zed-pest"
-}

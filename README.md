@@ -18,7 +18,7 @@ Open Zed extensions page, and search `Pest` to install.
 
 ## Screenshot
 
-<img width="880" alt="image" src="https://github.com/pest-parser/zed-pest/assets/5518/d7938d4c-f931-4d1b-80dd-14fa660fe1f9">
+<img width="880" alt="image" src="https://github.com/pest-parser/zed-pest/assets/5518/e0beff7b-e018-4b5d-89db-628279d91049">
 
 ## License
 

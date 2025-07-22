@@ -1,5 +1,7 @@
 # Pest support for Zed
 
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/pest)
+
 This extension provides language support for the [Pest](https://pest.rs).
 
 ## Installation
